@@ -1,0 +1,1 @@
+Kushim is regarded as possibly the first example of a named person in writing. The name "Kushim" is recorded on the Kushim Tablet, an ancient Sumerian clay tablet recording transactions that is now named for him or her.
