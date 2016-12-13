@@ -1,0 +1,18 @@
+Package: kushim
+Version: 0.1
+Date: 2016-12-09
+Title: Rudi Minxha
+Description: TBD
+Author: Rudi Minxha <rudi.minxha@gmail.com>
+Maintainer: Rudi Minxha <rudi.minxha@gmail.com>
+Requires:
+    SPARQL,
+    ggplot2
+Suggests:
+    testit
+Description: ~~DESCRIPTION~~
+License: LGPL-3
+LazyLoad: yes
+Collate:
+    util.R
+RoxygenNote: 5.0.1
