@@ -1,3 +1,8 @@
+#' Test
+#' @param none
+#'
+#' @test
+
 test <- function(){
   endpoint <- "http://live.dbpedia.org/sparql"
   options <- NULL

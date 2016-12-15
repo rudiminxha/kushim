@@ -5,7 +5,7 @@ Title: Rudi Minxha
 Description: TBD
 Author: Rudi Minxha <rudi.minxha@gmail.com>
 Maintainer: Rudi Minxha <rudi.minxha@gmail.com>
-Requires:
+Depends:
     SPARQL,
     ggplot2
 Suggests:
@@ -14,5 +14,6 @@ Description: ~~DESCRIPTION~~
 License: LGPL-3
 LazyLoad: yes
 Collate:
+    kushim-package.R
     util.R
 RoxygenNote: 5.0.1
