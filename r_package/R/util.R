@@ -51,7 +51,7 @@ get_search_query <- function(long=40.70823, lat=-74.01052, mile_radius=0.5, type
     ?s geo:lat ?lat .
     ?s geo:long ?long .
     FILTER(?lat > %s && ?lat < %s && ?long > %s && ?long < %s)}
-      ',type, long_beg, long_end, lat_beg, lat_end)
+      ',type, lat_beg, lat_end, long_beg, long_end)
   )
   return(q)  
 }
